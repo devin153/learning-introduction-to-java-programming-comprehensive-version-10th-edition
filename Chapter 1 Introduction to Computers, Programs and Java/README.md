@@ -20,4 +20,4 @@ Use the java command to execute your program. From the Command Prompt, type the 
 
 ``` java HelloWorld ```
 
-[Learn more] (https://introcs.cs.princeton.edu/java/15inout/windows-cmd.html)
+[Learn more](https://introcs.cs.princeton.edu/java/15inout/windows-cmd.html)
